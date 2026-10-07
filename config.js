@@ -34,7 +34,7 @@ window.SITE_CONFIG = {
       icon: "chatgpt",
       badge: "通用与开发",
       description: "从一个问题出发，探索你的工作与创作方式。",
-      price: "178",
+      price: "158",
       currency: "¥",
       unit: "起 / 月",
       tags: ["creation", "coding"],
